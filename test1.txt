@@ -1,0 +1,10 @@
+ Le volume dans le lecteur E s'appelle Programmes
+ Le num‚ro de s‚rie du volume est A092-3AA3
+
+ R‚pertoire de E:\MyProjectsGit
+
+23/10/2018  04:43    <DIR>          .
+23/10/2018  04:43    <DIR>          ..
+23/10/2018  04:43                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  12ÿ916ÿ260ÿ864 octets libres
